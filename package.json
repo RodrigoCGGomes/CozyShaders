@@ -12,9 +12,6 @@
     "Clouds",
     "Stylized"
   ],
-  "dependencies": {
-    "com.cyanilux.shadergraph-customlighting": "17.1.0"
-  },
   "author": {
     "name": "Shader Factory",
     "email": "contact@shaderfactory.com",
