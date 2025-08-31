@@ -1,4 +1,4 @@
-Modular State Machine is an unity package that offers functionality of a hierarchical finite state. It's ScriptableObject-based for easy implementation and modular reusability.
+Right click > Create > Shader Factory > Cozy Material Surface.
 
 ## Package name
 com.shaderfactory.dynamicsky
@@ -7,6 +7,4 @@ com.shaderfactory.dynamicsky
 ...
 
 ## How to use
-...
-
-*Work in progress*
+In the Project window: 'Right click > Create > Shader Factory > Cozy Material Surface.'

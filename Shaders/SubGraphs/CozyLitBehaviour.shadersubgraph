@@ -1581,7 +1581,7 @@
     "m_ObjectId": "020813138b2c467aa15558bcc7538613",
     "m_Title": "",
     "m_Position": {
-        "x": -1145.000244140625,
+        "x": -1145.0,
         "y": -657.0
     }
 }
@@ -2028,7 +2028,7 @@
     "m_ObjectId": "0f68c28f12a94bfe843ed6eacb42cfb5",
     "m_Title": "Cubemap reflections according to Roughness value.",
     "m_Position": {
-        "x": -916.000244140625,
+        "x": -916.0,
         "y": -372.0
     }
 }
@@ -2506,7 +2506,7 @@
     "m_Title": "Add Cubemap reflection to dialetric",
     "m_Position": {
         "x": 2471.0,
-        "y": 96.99992370605469
+        "y": 97.0
     }
 }
 
@@ -2564,7 +2564,7 @@
     "m_Title": "Metallic Calculation",
     "m_Position": {
         "x": 558.0,
-        "y": 847.9998779296875
+        "y": 848.0
     }
 }
 
@@ -2888,7 +2888,7 @@
     "m_ObjectId": "23233e34712548c186fedf11d1c3941a",
     "m_Title": "Tinted Basecolor (Basecolor * Tint)",
     "m_Position": {
-        "x": -2152.00048828125,
+        "x": -2152.0,
         "y": -726.0
     }
 }
@@ -3436,8 +3436,8 @@
     "m_ObjectId": "31a75ac92e104a6d9d3f19e94d1ee414",
     "m_Title": "Dialetric/Metallic Mix",
     "m_Position": {
-        "x": 2420.000732421875,
-        "y": 820.0001220703125
+        "x": 2420.0,
+        "y": 820.0
     }
 }
 
@@ -7039,7 +7039,7 @@
     "m_Title": "Specular decays as roughness spreads it.",
     "m_Position": {
         "x": -663.0,
-        "y": 487.9999084472656
+        "y": 488.0
     }
 }
 
@@ -7874,7 +7874,7 @@
     "m_Title": "World normal with Normal Map",
     "m_Position": {
         "x": -3957.0,
-        "y": 148.9998779296875
+        "y": 149.0
     }
 }
 
@@ -8218,7 +8218,7 @@
     "m_Title": "Calculate Specular",
     "m_Position": {
         "x": -2108.0,
-        "y": 490.0001220703125
+        "y": 490.0
     }
 }
 
@@ -10213,7 +10213,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "X",
     "m_StageCapability": 3,
-    "m_Value": 2.0,
+    "m_Value": 1.5,
     "m_DefaultValue": 0.0,
     "m_Labels": []
 }
