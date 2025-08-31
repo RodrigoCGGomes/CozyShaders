@@ -1,0 +1,34 @@
+Proprietary License
+
+Copyright (c) 2025 Shader Factory
+
+All rights reserved.
+
+This software and associated documentation files (the "Software") are proprietary and confidential. The Software is licensed, not sold, to you (the "Licensee") by Shader Factory (the "Licensor") for use strictly under the terms of this License. Unauthorized use, copying, or distribution is expressly prohibited.
+
+1. Grant of License
+   The Licensor grants the Licensee a non-exclusive, non-transferable, revocable license to use the Software solely for [specify purpose, e.g., "personal use," "internal development within Licensee's organization," or "use in a specific project"]. This license is granted only to the Licensee and may not be sublicensed, sold, or shared with any third party without prior written consent from the Licensor.
+
+2. Restrictions
+   The Licensee shall not:
+   - Copy, reproduce, or distribute the Software, in whole or in part, except as expressly permitted by the Licensor.
+   - Modify, reverse-engineer, decompile, or disassemble the Software.
+   - Share, publish, or make the Software available to any third party, including through public repositories or file-sharing services.
+   - Use the Software for any purpose other than as specified in this License.
+
+3. Ownership
+   The Software is the exclusive property of the Licensor. This License does not transfer any ownership rights to the Licensee. All rights not expressly granted are reserved by the Licensor.
+
+4. Termination
+   This License is effective until terminated. The Licensor may terminate this License immediately if the Licensee breaches any of its terms. Upon termination, the Licensee must cease all use of the Software and destroy all copies in their possession.
+
+5. No Warranty
+   The Software is provided "as is," without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement. The Licensor is not liable for any damages, including direct, indirect, incidental, or consequential damages, arising from the use or inability to use the Software.
+
+6. Governing Law
+   This License shall be governed by and construed in accordance with the laws of [specify jurisdiction, e.g., "the State of California, USA"]. Any disputes arising under this License shall be resolved in the courts of [specify jurisdiction].
+
+7. Contact
+   For inquiries regarding this License, contact Shader Factory at [your contact information].
+
+By using the Software, the Licensee agrees to be bound by the terms of this License.
